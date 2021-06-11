@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Peter Oladokun's ensemble performance" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "Peter Oladokun's ensemble performance" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 945.0,
+        "items": [
+          {
+            "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://drive.google.com/file/d/1ReYzPfMyWU-WxOrszBAQXGZUW7bIGbrq/view?usp=sharing",
+                    "duration": 945.0
+                },
+                "target": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
