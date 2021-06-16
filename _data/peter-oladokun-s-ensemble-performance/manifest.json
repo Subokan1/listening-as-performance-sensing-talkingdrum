@@ -2,18 +2,18 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Peter Oladokun's ensemble performance" ] },
+    "label": { "en": [ "Peter Adedokun's ensemble performance" ] },
     "homepage": [
       {
         "id": "",
         "type": "Text",
-        "label": { "en": [ "Peter Oladokun's ensemble performance" ] },
+        "label": { "en": [ "Peter Adedokun's ensemble performance" ] },
         "format": "text/html"
       }
     ],
     "provider": [
       {
-        "id": "",
+        "id": "https://www.youtube.com/watch?v=UkTdzLQHS-Q",
         "type": "Agent",
         "label": { "en": [ "" ] }
       }
