@@ -1,0 +1,38 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/annotations/peter-oladokun-s-ensemble-performance-canvas-1-927.json",
+  "type": "AnnotationPage",
+  "label": "927",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "peter-oladokun-s-ensemble-performance-canvas-1-927-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "927",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "927",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/peter-oladokun-s-ensemble-performance/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "927"
+        }
+      }
+    }
+  ]
+}
