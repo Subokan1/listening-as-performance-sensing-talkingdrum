@@ -8,6 +8,16 @@
         "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
         "type": "Canvas",
         "duration": 945,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/annotations/talking-drum-annotation-canvas-1-layer-1.json",
+            "label": {
+              "none": ["Layer 1"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/paintings",

@@ -1,0 +1,316 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/annotations/talking-drum-annotation-canvas-1-layer-1.json",
+  "type": "AnnotationPage",
+  "label": "Layer 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adedokun's performance introduction",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43,75"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Rhythmic drumming pattern",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "76,120"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Songs mimic-drumming and vocal antiphons begin",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "121,215"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Drum mimicry intermission and transition to rhythmic drumming",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "216,250"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Lead drum resumes mimicry and choral drums supply backup rhythmic drumming  ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "251,405"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Drumming slows down to an almost-pause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "406,416"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>(<i>Akojade</i>) Closing glee: Lead drum begins mimicry again and concludes the performance</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "417,435"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adedokun announces conclusion of first performance",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "436,467"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Opening rhythmic glee (another performance)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "468,511"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Drum mimicry prelude",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "512,549"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adedokun introduces the performance",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "550,594"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Folktales+popular songs mimicry and their vocal antiphons begin with each tale song interspersed with rhythmic drumming",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "595,891"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Adedokun announces performance conclusion",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "892,926"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "talking-drum-annotation-canvas-1-layer-1-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Closing glee",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "927,945"
+        }
+      }
+    }
+  ]
+}
