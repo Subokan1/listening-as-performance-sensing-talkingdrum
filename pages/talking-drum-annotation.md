@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Talking Drum Annotation
 manifest_name: talking-drum-annotation
 permalink: talking-drum-annotation
