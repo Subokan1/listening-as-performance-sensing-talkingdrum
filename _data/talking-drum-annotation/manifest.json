@@ -1,0 +1,31 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Talking Drum Annotation" ] },
+    "items": [
+      {
+        "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": Seconds,
+        "items": [
+          {
+            "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": Seconds
+                },
+                "target": "https://Subokan1.github.io/listening-as-performance-sensing-talkingdrum/talking-drum-annotation/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
